@@ -1,5 +1,4 @@
-## Centre for Innovation in Learning and Teaching (CILT)
-
+## Centre for Innovation in Learning and Teaching, University of Cape Town
 <!--
 
 **Here are some ideas to get you started:**
